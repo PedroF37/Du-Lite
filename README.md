@@ -11,4 +11,4 @@ Projeto usa as bibliotecas:
 * `libfileutils` -> https://github.com/PedroF37/FileUtils
 * `libdirutils` -> https://github.com/PedroF37/DirUtils
 #
-Projeto é compilado com: `clang -Wall -Wextra --pedantic -std=c99 -ldirutils -lfileutils -o du-lite du-lite.c`
+Projeto é compilado com: `$ clang -Wall -Wextra --pedantic -std=c99 -ldirutils -lfileutils -o du-lite du-lite.c`
